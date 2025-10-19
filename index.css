@@ -1,0 +1,13 @@
+#hid{
+background-color: red;
+}
+#appid{
+    background-color: aqua;
+    width: 3200px;
+    height: 3200px;
+}
+
+#testid{
+    background-color: black;
+    color: white;
+}
